@@ -1,0 +1,31 @@
+{
+  "name": "bearded-nemesis",
+  "version": "0.0.0",
+  "description": "An npm pass through for private and public modules",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.36.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MauriceButler/bearded-nemesis.git"
+  },
+  "keywords": [
+    "npm",
+    "pass",
+    "thorugh",
+    "proxy",
+    "private",
+    "sinopia"
+  ],
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/bearded-nemesis/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/bearded-nemesis"
+}
