@@ -4,7 +4,7 @@
   "description": "An npm pass through for private and public modules",
   "main": "index.js",
   "dependencies": {
-    "request": "^2.36.0"
+    "request": "^2.44.0"
   },
   "devDependencies": {},
   "scripts": {
