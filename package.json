@@ -1,6 +1,6 @@
 {
   "name": "bearded-nemesis",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An npm pass through for private and public modules",
   "main": "index.js",
   "dependencies": {
